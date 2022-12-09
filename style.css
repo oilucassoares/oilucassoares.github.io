@@ -1,0 +1,112 @@
+@charset "8-UTF";
+
+body{
+    background-color: rgb(250, 239, 224);
+    margin-top: 100px;
+    margin: auto;
+}
+header{
+    background-color: #03A64A;
+    padding: 10px;
+    background-image: linear-gradient(to bottom, #2fa866,#1a5c37, #063d1e);
+}
+h1.titulo{
+    color: white;
+    text-align: center
+}
+h5.obs{
+    color: white;
+    text-align: center
+}
+nav > a{
+    color: white;
+    text-decoration: none;
+    margin-left: 10px;   
+}
+nav a:hover{
+    text-decoration: underline;
+    background-color: #03A64A;
+    padding: 5px 5px 5px; /*cima>direita>esquerda*/
+    border-radius: 10px;
+}
+main{
+    background-color: white;
+    min-width: 100px;
+    max-width: 1000px;
+    margin: auto;
+    margin-top: 0px;
+    text-align: justify;
+    padding: 10px;
+    box-shadow: 0px 6px 10px black;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+main img{
+    width: 100%;
+}
+main img.pequena{
+    width: 50%;
+    display: block;
+    margin: auto;
+}
+iframe.video{
+    display: block;
+    margin: auto;
+    width: 100%;
+    
+}
+p#versao{
+    background-image: linear-gradient(to right, #40f18d, white);
+    width: auto;
+}
+p#mascote{
+    background-image: linear-gradient(to right, #40f18d, white);
+    width: auto;
+} 
+footer{
+    background-color: #063d1e;
+    color: white;
+    text-align: center;
+    
+    padding: 5px;
+}
+p#final{
+    text-align: justify;
+    padding-left: 3%;
+    padding-right: 3%;
+    width: auto;
+}
+p.rodape{
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+a.link{
+    color: white;
+}
+h3#novidades{
+    color: white;
+    background-color: #1a5c37;
+    padding: 10px;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+}
+div.video{
+    background-color: #03A64A;
+    margin: 0px -10px 30px -10px;
+    padding: 20px;
+    padding-bottom: 5%;
+    position: relative;
+}
+aside{
+    background-color: #83e1ad;
+    border-radius: 12px 12px 12px 12px;
+}
+aside > p{
+    padding: 15px;
+    text-align: justify;
+}
+aside > ul{
+    columns: 2;
+}
+

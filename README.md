@@ -1,3 +1,2 @@
 # oilucassoares.github.io
-Aqui estão os meus projetos.
-Abra direto https://oilucassoares.github.io/pagina para abrir o projeto pronto em seu navegador. Este foi um projeto responsivo realizado em HTML5/CSS3. 
+Clique em https://oilucassoares.github.io/pagina para acessar o projeto pronto direto do seu navegador. Projeto desenvolvido de forma responsiva utilizando tecnologias de HTML5 e CSS3. A parte Javascript ainda não está pronto.

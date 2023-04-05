@@ -172,3 +172,9 @@ a.link:hover{
 a.link::after{ /*:: significa DEPOIS DO LINK*/
     content: '\1F517';
 }
+
+@media screen and (max-width: 480px) {
+    nav{
+        width: 110%;
+    }
+}
